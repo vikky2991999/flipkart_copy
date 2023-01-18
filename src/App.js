@@ -12,10 +12,9 @@ const App = () => {
     <div>
   
      <Navbar/> 
-     
+    
     {/* <ApiConcept/>*/}
      <ApiCon/>
-    {/*<MobileApi/> */}
      
     </div>
   )
